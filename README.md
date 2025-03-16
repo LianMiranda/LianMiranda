@@ -5,8 +5,8 @@
 🏫 [Universidade Católica Dom Bosco] • 📅 (2024)
 
 ## 📊 GitHub Stats
-![Lian's GitHub Stats](https://github-readme-stats.vercel.app/api?LianMiranda)](https://github.com/anuraghazra/github-readme-stats)
-
+Lian's GitHub Stats
+[![Lian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## 💡 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LianMiranda&layout=compact&theme=dark)
 
