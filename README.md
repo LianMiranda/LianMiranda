@@ -1,4 +1,8 @@
 ## Olá, eu sou o Lian
+## 🎓 Formação Acadêmica  
+
+🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
+🏫 [Universidade Católica Dom Bosco] • 📅 (2024)
 
 ## 📊 GitHub Stats
 ![Lian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LianMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
@@ -19,3 +23,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lian-souza-miranda-mendes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lian_souza.a/)
