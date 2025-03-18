@@ -6,9 +6,7 @@
 
 ## 📊 GitHub Stats
 [![Lian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LianMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💡 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LianMiranda&layout=compact&theme=dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=LianMiranda&layout=compact&theme=dark)
 
 ## 🚀 Tech Stack
 
