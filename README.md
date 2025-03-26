@@ -1,4 +1,4 @@
-## Olá, eu sou o Lian
+## Olá visitante 👋
 ## 🎓 Formação Acadêmica  
 
 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
